@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const CSection = styled.section`
-  max-width: 280px;
-  min-height: 300px;
-  padding: 25px 15px 15px;
+  max-width: 410px;
+  min-height: 400px;
+  padding: 35px 25px 25px;
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
@@ -24,5 +24,5 @@ export const CSection = styled.section`
 
 export const Title = styled.h2`
   color: #d5a0e9;
-  font-size: 18px;
+  font-size: 28px;
 `;

@@ -6,8 +6,8 @@ export const Container = styled.div`
   padding: 15px;
   display: flex;
   flex-direction: column;
-  min-width: 230px;
-  min-height: 150px;
+  min-width: 330px;
+  min-height: 250px;
   align-items: center;
   gap: 20px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -15,13 +15,13 @@ export const Container = styled.div`
 
 export const Title = styled.h3`
   color: #d5a0e9;
-  font-size: 16px;
+  font-size: 28px;
 `;
 
 export const List = styled.ul`
   color: #fff;
   font-family: 'Dosis', sans-serif;
-  min-width: 180px;
+  min-width: 280px;
 `;
 
 export const Item = styled.li`
@@ -42,11 +42,12 @@ export const Item = styled.li`
 export const Span = styled.p`
   color: #d5a0e9;
   margin-left: 5px;
-  font-size: 18px;
+  font-size: 22px;
   order: 2;
 `;
 
 export const P = styled.p`
   display: flex;
   justify-content: space-between;
+  font-size: 22px;
 `;
