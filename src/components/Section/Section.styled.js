@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const CSection = styled.section`
   max-width: 410px;
-  min-height: 400px;
+  min-height: 350px;
   padding: 35px 25px 25px;
   margin-top: 100px;
   margin-left: auto;

@@ -3,11 +3,11 @@ import styled from 'styled-components';
 export const Container = styled.div`
   border: 1px solid #fff;
   border-radius: 8px;
-  padding: 15px;
+  padding: 25px;
   display: flex;
   flex-direction: column;
   min-width: 330px;
-  min-height: 250px;
+  min-height: 180px;
   align-items: center;
   gap: 20px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
